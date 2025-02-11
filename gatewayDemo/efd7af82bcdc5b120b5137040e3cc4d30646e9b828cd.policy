@@ -1,7 +1,7 @@
 @id("allow_one")
 permit(
   principal is gatewayDemo::Workload,
-  action == gatewayDemo::Action::"GET",
+  action == gatewayDemo::Action::"PUT",
   resource is gatewayDemo::HTTP_Request
 )
 when {
