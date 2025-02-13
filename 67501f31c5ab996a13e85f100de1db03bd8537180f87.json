@@ -15,7 +15,7 @@
                 "ffcc3e9ffe77e2ad14a728d24768bdffd6371a9e26fd": {
                     "name": "Gluu",
                     "description": "Gluu",
-                    "openid_configuration_endpoint": "https://account.gluu.org/.well-known/openid-configuration",
+                    "openid_configuration_endpoint": "https://ossdhaval-hardy-tortoise.gluu.info/.well-known/openid-configuration",
                     "tokens_metadata": {
                         "access_tokens": {
                             "trusted": false,
