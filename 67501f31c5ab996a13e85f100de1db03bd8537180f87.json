@@ -9,11 +9,6 @@
                     "description": "allow_one_user",
                     "creation_date": "2025-02-14T08:39:24.732307",
                     "policy_content": "QGlkKCJhbGxvd19vbmVfdXNlciIpCnBlcm1pdChwcmluY2lwYWwgaXMgZ2F0ZXdheURlbW86Oldvcmtsb2FkLCBhY3Rpb24gPT0gZ2F0ZXdheURlbW86OkFjdGlvbjo6IkdFVCIsIHJlc291cmNlIGlzIGdhdGV3YXlEZW1vOjpIVFRQX1JlcXVlc3QpIHdoZW4geyAoKHByaW5jaXBhbCBoYXMgImFjY2Vzc190b2tlbiIpICYmICgocHJpbmNpcGFsWyJhY2Nlc3NfdG9rZW4iXSkgaGFzICJhY3IiKSkgJiYgKCgocHJpbmNpcGFsWyJhY2Nlc3NfdG9rZW4iXSlbImFjciJdKS5jb250YWlucygiYWdhbWFfb3JnLmdsdXUuYWdhbWEucHcubWFpbiIpKSB9Ow=="
-                },
-                "faa45484ac86d598890217813ad6fbcb321aa44d2d33": {
-                    "description": "allow_one",
-                    "creation_date": "2025-02-14T09:28:51.353077",
-                    "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQoCiAgcHJpbmNpcGFsIGlzIGdhdGV3YXlEZW1vOjpXb3JrbG9hZCwKICBhY3Rpb24gPT0gZ2F0ZXdheURlbW86OkFjdGlvbjo6IkdFVCIsCiAgcmVzb3VyY2UgaXMgZ2F0ZXdheURlbW86OkhUVFBfUmVxdWVzdAopCndoZW4gewogIHByaW5jaXBhbCBoYXMgYWNjZXNzX3Rva2VuLnNjb3BlICYmCiAgcHJpbmNpcGFsLmFjY2Vzc190b2tlbi5zY29wZS5jb250YWlucygicHJvZmlsZSIpCn07"
                 }
             },
             "trusted_issuers": {
