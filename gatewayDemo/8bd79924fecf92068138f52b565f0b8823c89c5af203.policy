@@ -1,9 +1,2 @@
 @id("allow_one")
-permit(
-  principal is gatewayDemo::Workload,
-  action == gatewayDemo::Action::"GET",
-  resource is gatewayDemo::HTTP_Request
-)
-when {
-  principal has access_token.acr
-};
+permit(principal is gatewayDemo::Workload, action == gatewayDemo::Action::"GET", resource is gatewayDemo::HTTP_Request) when { ((principal has "access_token") && ((principal["access_token"]) has "acr")) && ((principal["acr"]) == "simple_password_auth") };
