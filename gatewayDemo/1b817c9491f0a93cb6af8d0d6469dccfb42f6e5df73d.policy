@@ -1,2 +1,2 @@
 @id("allow_one")
-permit(principal is gatewayDemo::Workload, action == gatewayDemo::Action::"GET", resource is gatewayDemo::HTTP_Request) when { ((principal has "access_token") && ((principal["access_token"]) has "client_id")) && (((principal["access_token"])["client_id"]).contains("d7f71bea-c38d-4caf-a1ba-e43c74a11a62")) };
+permit(principal is gatewayDemo::Workload, action == gatewayDemo::Action::"GET", resource is gatewayDemo::HTTP_Request) when { ((principal has "access_token") && ((principal["access_token"]) has "iss")) && (((principal["access_token"])["iss"]).contains("https://account.gluu.org")) };
