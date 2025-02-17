@@ -36,7 +36,7 @@
                             "principal_identifier": "",
                             "user_id": "",
                             "role_mapping": "",
-                            "claim_mapping": ""
+                            "claim_mapping": {}
                         },
                         "tx_tokens": {
                             "trusted": false,
