@@ -4,13 +4,7 @@
         "67501f31c5ab996a13e85f100de1db03bd8537180f87": {
             "name": "gatewayDemo",
             "description": "",
-            "policies": {
-                "1b817c9491f0a93cb6af8d0d6469dccfb42f6e5df73d": {
-                    "description": "allow_one",
-                    "creation_date": "2025-02-14T08:39:24.732307",
-                    "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQocHJpbmNpcGFsIGlzIGdhdGV3YXlEZW1vOjpXb3JrbG9hZCwgYWN0aW9uID09IGdhdGV3YXlEZW1vOjpBY3Rpb246OiJHRVQiLCByZXNvdXJjZSBpcyBnYXRld2F5RGVtbzo6SFRUUF9SZXF1ZXN0KSB3aGVuIHsgKChwcmluY2lwYWwgaGFzICJhY2Nlc3NfdG9rZW4iKSAmJiAoKHByaW5jaXBhbFsiYWNjZXNzX3Rva2VuIl0pIGhhcyAiYWNyIikpICYmICgoKHByaW5jaXBhbFsiYWNjZXNzX3Rva2VuIl0pWyJhY3IiXSkuY29udGFpbnMoInNpbXBsZV9wYXNzd29yZF9hdXRoIikpIH07"
-                }
-            },
+            "policies": {},
             "trusted_issuers": {
                 "ffcc3e9ffe77e2ad14a728d24768bdffd6371a9e26fd": {
                     "name": "Gluu",
