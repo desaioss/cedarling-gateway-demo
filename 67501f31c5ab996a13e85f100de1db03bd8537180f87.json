@@ -8,7 +8,7 @@
                 "8bd79924fecf92068138f52b565f0b8823c89c5af203": {
                     "description": "allow_one",
                     "creation_date": "2025-02-17T09:59:19.084019",
-                    "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQocHJpbmNpcGFsIGlzIGdhdGV3YXlEZW1vOjpXb3JrbG9hZCwgYWN0aW9uIGluIGdhdGV3YXlEZW1vOjpBY3Rpb246OiJHRVQiLCByZXNvdXJjZSBpcyBnYXRld2F5RGVtbzo6SFRUUF9SZXF1ZXN0KSB3aGVuIHsgKChwcmluY2lwYWwgaGFzICJhY2Nlc3NfdG9rZW4iKSAmJiAoKHByaW5jaXBhbFsiYWNjZXNzX3Rva2VuIl0pIGhhcyAiYWNyIikpICYmICgoKHByaW5jaXBhbFsiYWNjZXNzX3Rva2VuIl0pWyJhY3IiXSkuY29udGFpbnMoImFnYW1hX29yZy5nbHV1LmFnYW1hLnB3Lm1haW4iKSkgfTs="
+                    "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQocHJpbmNpcGFsIGlzIGdhdGV3YXlEZW1vOjpXb3JrbG9hZCwgYWN0aW9uIGluIGdhdGV3YXlEZW1vOjpBY3Rpb246OiJHRVQiLCByZXNvdXJjZSBpcyBnYXRld2F5RGVtbzo6SFRUUF9SZXF1ZXN0KSB3aGVuIHsgKChwcmluY2lwYWwgaGFzICJhY2Nlc3NfdG9rZW4iKSAmJiAoKHByaW5jaXBhbFsiYWNjZXNzX3Rva2VuIl0pIGhhcyAiYWNyIikpICYmICgoKHByaW5jaXBhbFsiYWNjZXNzX3Rva2VuIl0pWyJhY3IiXSkuY29udGFpbnMoInNpbXBsZV9wYXNzd29yZF9hdXRoIikpIH07"
                 }
             },
             "trusted_issuers": {
