@@ -5,6 +5,5 @@ permit(
   resource is gatewayDemo::HTTP_Request
 )
 when {
-  principal has access_token.acr &&
-  principal.access_token.acr.contains("simple_password_auth")
+  principal has access_token.acr
 };
