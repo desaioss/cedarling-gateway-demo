@@ -1,8 +1,8 @@
 @id("allow_one")
 permit(
-  principal is gatewayDemo::Workload,
-  action == gatewayDemo::Action::"GET",
-  resource is gatewayDemo::HTTP_Request
+  principal is demo1::Workload,
+  action == demo1::Action::"GET",
+  resource is demo1::HTTP_Request
 )
 when {
   principal has access_token.scope &&
