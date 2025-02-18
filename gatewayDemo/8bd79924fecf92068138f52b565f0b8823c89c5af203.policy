@@ -7,5 +7,5 @@ permit(
 )
 when {
   principal has access_token.acr &&
-  principal.access_token.acr == "simple_password_auth"
+  principal.access_token.acr == "agama_org.gluu.agama.pw.main"
 };
