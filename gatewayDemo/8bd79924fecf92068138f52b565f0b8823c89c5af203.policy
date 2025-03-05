@@ -1,4 +1,4 @@
- @id("allow_one")
+@id("allow_one")
 permit(
   principal is gatewayDemo::Workload,
   action == gatewayDemo::Action::"GET",
