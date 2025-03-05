@@ -1,5 +1,5 @@
 {
-    "cedar_version": "4.2.2",
+    "cedar_version": "4.3.0",
     "policy_stores": {
         "67501f31c5ab996a13e85f100de1db03bd8537180f87": {
             "name": "gatewayDemo",
