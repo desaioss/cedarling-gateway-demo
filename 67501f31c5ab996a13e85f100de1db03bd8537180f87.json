@@ -64,41 +64,6 @@
                         }
                     }
                 },
-                "fdc8e6a0073dfcd933b27c123bfeee54fa4464890696": {
-                    "name": "",
-                    "description": "",
-                    "openid_configuration_endpoint": "",
-                    "tokens_metadata": {
-                        "access_tokens": {
-                            "trusted": false,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        },
-                        "id_tokens": {
-                            "trusted": false,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        },
-                        "userinfo_tokens": {
-                            "trusted": false,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        },
-                        "tx_tokens": {
-                            "trusted": false,
-                            "principal_identifier": "",
-                            "user_id": "",
-                            "role_mapping": "",
-                            "claim_mapping": {}
-                        }
-                    }
-                },
                 "75fd3bf8d7cfa302b639ab774003d406d2e2a67df6e6": {
                     "name": "",
                     "description": "",
