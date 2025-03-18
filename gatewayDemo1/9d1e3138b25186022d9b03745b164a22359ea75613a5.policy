@@ -1,0 +1,2 @@
+@id("A")
+permit(principal, action in Jans::Action::"Read", resource) when { ((principal has "userinfo_token") && ((principal["userinfo_token"]) has "role")) && (((principal["userinfo_token"])["role"]).contains("developer")) };
