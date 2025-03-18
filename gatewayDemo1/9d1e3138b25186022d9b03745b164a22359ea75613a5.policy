@@ -1,9 +1,2 @@
-@id("A")
-permit(
-  principal,
-  action,
-  resource
-)
-when {
-   ((principal has "userinfo_token") && ((principal["userinfo_token"]) has "role")) && (((principal["userinfo_token"])["role"]).contains("developerrr"))
-};
+@id("allow_one")
+permit(principal, action, resource) when { ((principal has "userinfo_token") && ((principal["userinfo_token"]) has "role")) && (((principal["userinfo_token"])["role"]).contains("developerrr")) };
