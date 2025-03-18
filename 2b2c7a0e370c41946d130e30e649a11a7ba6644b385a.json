@@ -9,6 +9,11 @@
                     "description": "allow_one",
                     "creation_date": "2025-03-18T08:18:23.830022",
                     "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiwKICByZXNvdXJjZQopCndoZW4gewogICAoKHByaW5jaXBhbCBoYXMgInVzZXJpbmZvX3Rva2VuIikgJiYgKChwcmluY2lwYWxbInVzZXJpbmZvX3Rva2VuIl0pIGhhcyAicm9sZSIpKSAmJiAoKChwcmluY2lwYWxbInVzZXJpbmZvX3Rva2VuIl0pWyJyb2xlIl0pLmNvbnRhaW5zKCJkZXZlbG9wZXJyciIpKQp9Ow=="
+                },
+                "0f90a91dcb8623bb364c964ca80fa06c1548267050b1": {
+                    "description": "allow_one",
+                    "creation_date": "2025-03-18T10:35:21.906167",
+                    "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiwKICByZXNvdXJjZQopCndoZW4gewogICAoKHByaW5jaXBhbCBoYXMgInVzZXJpbmZvX3Rva2VuIikgJiYgKChwcmluY2lwYWxbInVzZXJpbmZvX3Rva2VuIl0pIGhhcyAicm9sZSIpKSAmJiAoKChwcmluY2lwYWxbInVzZXJpbmZvX3Rva2VuIl0pWyJyb2xlIl0pLmNvbnRhaW5zKCJkZXZlbG9wZXJyciIpKQp9Ow=="
                 }
             },
             "trusted_issuers": {
