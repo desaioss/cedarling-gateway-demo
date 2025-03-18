@@ -8,7 +8,7 @@
                 "9d1e3138b25186022d9b03745b164a22359ea75613a5": {
                     "description": "allow_one",
                     "creation_date": "2025-03-18T08:18:23.830022",
-                    "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQocHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiUmVhZCJdLCByZXNvdXJjZSkgd2hlbiB7ICgocHJpbmNpcGFsIGhhcyAidXNlcmluZm9fdG9rZW4iKSAmJiAoKHByaW5jaXBhbFsidXNlcmluZm9fdG9rZW4iXSkgaGFzICJyb2xlIikpICYmICgoKHByaW5jaXBhbFsidXNlcmluZm9fdG9rZW4iXSlbInJvbGUiXSkuY29udGFpbnMoImRldmVsb3BlciIpKSB9Ow=="
+                    "policy_content": "QGlkKCJhbGxvd19vbmUiKQpwZXJtaXQoCiAgcHJpbmNpcGFsIGlzIEphbnM6OlVzZXIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJSZWFkIl0sCiAgcmVzb3VyY2UKKQp3aGVuIHsKICAgKChwcmluY2lwYWwgaGFzICJ1c2VyaW5mb190b2tlbiIpICYmICgocHJpbmNpcGFsWyJ1c2VyaW5mb190b2tlbiJdKSBoYXMgInJvbGUiKSkgJiYgKCgocHJpbmNpcGFsWyJ1c2VyaW5mb190b2tlbiJdKVsicm9sZSJdKS5jb250YWlucygiZGV2ZWxvcGVyIikpCn07"
                 },
                 "0f90a91dcb8623bb364c964ca80fa06c1548267050b1": {
                     "description": "allow_one",
