@@ -1,9 +1,10 @@
 @id("allow_one")
 permit(
-  principal,
-  action,
+  principal is Jans::User,
+  action in Jans::Action::"Read",
   resource
 )
 when {
-   ((principal has "userinfo_token") && ((principal["userinfo_token"]) has "role")) && (((principal["userinfo_token"])["role"]).contains("developerrr"))
+  principal has userinfo_token.role &&
+  principal.userinfo_token.role.contains("developer")
 };
