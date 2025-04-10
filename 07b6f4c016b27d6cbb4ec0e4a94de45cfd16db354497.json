@@ -32,9 +32,6 @@
                                 "sub",
                                 "exp",
                                 "nbf"
-                            ],
-                            "principal_mapping": [
-                                "Jans::Workload"
                             ]
                         },
                         "id_token": {
