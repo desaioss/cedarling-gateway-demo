@@ -23,30 +23,31 @@
                     "openid_configuration_endpoint": "https://jans-project.lxd/.well-known/openid-configuration",
                     "tokens_metadata": {
                         "access_token": {
-                            "trusted": true,
                             "entity_type_name": "Jans::Access_token",
-                            "required_claims": [
-                                "jti",
-                                "iss",
-                                "aud",
-                                "sub",
-                                "exp",
-                                "nbf"
-                            ],
-                            "principal_mapping": [
-                                "Jans::Workload"
-                            ]
+                            "iss": "disabled",
+                            "aud": "disabled",
+                            "sub": "disabled",
+                            "nbf": "disabled",
+                            "exp": "disabled",
+                            "jti": "disabled"
                         },
                         "id_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::id_token"
+                            "entity_type_name": "Jans::id_token",
+                            "iss": "disabled",
+                            "aud": "disabled",
+                            "sub": "disabled",
+                            "nbf": "disabled",
+                            "exp": "disabled",
+                            "jti": "disabled"
                         },
                         "userinfo_token": {
-                            "trusted": true,
                             "entity_type_name": "Jans::Userinfo_token",
-                            "principal_mapping": [
-                                "Jans::User"
-                            ]
+                            "iss": "disabled",
+                            "aud": "disabled",
+                            "sub": "disabled",
+                            "nbf": "disabled",
+                            "exp": "disabled",
+                            "jti": "disabled"
                         }
                     }
                 }
