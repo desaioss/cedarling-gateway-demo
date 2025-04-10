@@ -32,6 +32,20 @@
                                 "sub",
                                 "exp",
                                 "nbf"
+                            ],
+                            "principal_mapping": [
+                                "Jans::Workload"
+                            ]
+                        },
+                        "id_token": {
+                            "trusted": true,
+                            "entity_type_name": "Jans::id_token"
+                        },
+                        "userinfo_token": {
+                            "trusted": true,
+                            "entity_type_name": "Jans::Userinfo_token",
+                            "principal_mapping": [
+                                "Jans::User"
                             ]
                         }
                     }
