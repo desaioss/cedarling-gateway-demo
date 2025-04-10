@@ -1,7 +1,6 @@
 @id("allow_supreme_ruler")
 permit(
-  
-  principal is Jans::Workload,
+  principal in Jans::Role::"SupremeRuler",
   action,
   resource
 );
