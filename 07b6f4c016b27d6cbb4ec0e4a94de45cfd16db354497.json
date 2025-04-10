@@ -33,14 +33,6 @@
                                 "exp",
                                 "nbf"
                             ]
-                        },
-                        "id_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::id_token"
-                        },
-                        "userinfo_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::Userinfo_token"
                         }
                     }
                 }
