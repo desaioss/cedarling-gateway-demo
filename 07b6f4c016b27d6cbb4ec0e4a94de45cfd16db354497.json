@@ -23,31 +23,24 @@
                     "openid_configuration_endpoint": "https://jans-project.lxd/.well-known/openid-configuration",
                     "tokens_metadata": {
                         "access_token": {
+                            "trusted": true,
                             "entity_type_name": "Jans::Access_token",
-                            "iss": "disabled",
-                            "aud": "disabled",
-                            "sub": "disabled",
-                            "nbf": "disabled",
-                            "exp": "disabled",
-                            "jti": "disabled"
+                            "required_claims": [
+                                "jti",
+                                "iss",
+                                "aud",
+                                "sub",
+                                "exp",
+                                "nbf"
+                            ]
                         },
                         "id_token": {
-                            "entity_type_name": "Jans::id_token",
-                            "iss": "disabled",
-                            "aud": "disabled",
-                            "sub": "disabled",
-                            "nbf": "disabled",
-                            "exp": "disabled",
-                            "jti": "disabled"
+                            "trusted": true,
+                            "entity_type_name": "Jans::id_token"
                         },
                         "userinfo_token": {
-                            "entity_type_name": "Jans::Userinfo_token",
-                            "iss": "disabled",
-                            "aud": "disabled",
-                            "sub": "disabled",
-                            "nbf": "disabled",
-                            "exp": "disabled",
-                            "jti": "disabled"
+                            "trusted": true,
+                            "entity_type_name": "Jans::Userinfo_token"
                         }
                     }
                 }
