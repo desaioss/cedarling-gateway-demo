@@ -20,7 +20,7 @@
                 "770ffb25a4ed526fe9cc08a5a3092fa0fef467dd14ad": {
                     "name": "testIdp",
                     "description": "Test IDP",
-                    "openid_configuration_endpoint": "https://test-jans.gluu.info/.well-known/openid-configuration",
+                    "openid_configuration_endpoint": "https://jans-project.lxd/.well-known/openid-configuration",
                     "tokens_metadata": {
                         "access_token": {
                             "trusted": true,
